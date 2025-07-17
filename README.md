@@ -1,3 +1,4 @@
 # News-App
-author -Shubham Chakraborty
+author -Shubham Chakraborty.
+<br>
 domain - software developer 
